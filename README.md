@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @phatt-23
-- 👀 I’m interested in femboys
-- 🌱 I’m currently learning to read
-- 💞️ I’m looking to collaborate on Haskell startups
-- 📫 How to reach me -> via email 
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: i like feet
+```c
+#include <stdio.h>
+
+int main() {
+  printf("hello, world!\n");
+  return 0;
+}
+```
