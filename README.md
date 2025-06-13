@@ -1,8 +1,1 @@
-```c
-#include <stdio.h>
-
-int main() {
-  printf("hello, world!\n");
-  return 0;
-}
-```
+int8_t int16_t int32_t int64_t
